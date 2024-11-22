@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|c:\\users\\rahma\\source\\repos\\tasktwo\\tasktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|solutionrelative:tasktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|c:\\users\\rahma\\source\\repos\\tasktwo\\tasktwo\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|solutionrelative:tasktwo\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|c:\\users\\rahma\\source\\repos\\tasktwo\\tasktwo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0EFC9-BEBC-41DC-9D09-76584FF41763}|taskTwo\\taskTwo.csproj|solutionrelative:tasktwo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\Content.cs",
+              "RelativeDocumentMoniker": "taskTwo\\Content.cs",
+              "ToolTip": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\Content.cs",
+              "RelativeToolTip": "taskTwo\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:52:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\User.cs",
+              "RelativeDocumentMoniker": "taskTwo\\User.cs",
+              "ToolTip": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\User.cs",
+              "RelativeToolTip": "taskTwo\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:45:36.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\Program.cs",
+              "RelativeDocumentMoniker": "taskTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahma\\source\\repos\\taskTwo\\taskTwo\\Program.cs*",
+              "RelativeToolTip": "taskTwo\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:33:49.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

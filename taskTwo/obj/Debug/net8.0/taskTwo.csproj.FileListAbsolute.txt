@@ -1,0 +1,14 @@
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\bin\Debug\net8.0\taskTwo.exe
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\bin\Debug\net8.0\taskTwo.deps.json
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\bin\Debug\net8.0\taskTwo.runtimeconfig.json
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\bin\Debug\net8.0\taskTwo.dll
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\bin\Debug\net8.0\taskTwo.pdb
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.AssemblyInfoInputs.cache
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.AssemblyInfo.cs
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.dll
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\refint\taskTwo.dll
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.pdb
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\taskTwo.genruntimeconfig.cache
+C:\Users\Rahma\source\repos\taskTwo\taskTwo\obj\Debug\net8.0\ref\taskTwo.dll
